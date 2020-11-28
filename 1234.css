@@ -1,0 +1,24 @@
+.ыыы{
+	background-color: rgba(233, 150, 122,0.9);
+	width: 400px;
+	border: 1px solid #000000;
+}
+.sss{
+	font-size: 400%;
+	border: 1px solid #000000;
+	background-color: rgba(139, 0, 0,0.5);
+	color: rgba(0, 255, 0,0.8)
+}
+body{
+	background: url(https://i.kurjer.info/wp-content/uploads/2019/04/190426_pivzavod-11.jpg);
+	background-size: cover;
+}
+.size{
+	width: 604px;
+	height: 453px;
+}
+.ы{
+	background-color: rgba(192, 192, 192, 0.9);
+	width: 600px;
+	border: 1px solid #000000;
+}
